@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/parkminhee_ui/static/css/main.0b3d401d.css",
+    "main.js": "/parkminhee_ui/static/js/main.df7be239.js",
+    "index.html": "/parkminhee_ui/index.html",
+    "main.0b3d401d.css.map": "/parkminhee_ui/static/css/main.0b3d401d.css.map",
+    "main.df7be239.js.map": "/parkminhee_ui/static/js/main.df7be239.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b3d401d.css",
+    "static/js/main.df7be239.js"
+  ]
+}
